@@ -1,0 +1,6 @@
+{
+  "name": "FOH Kitchen Food Tracker",
+  "description": "Minimal touch-first frontend connecting FOH and Kitchen via Airtable to track food stock and expiration dates up to 5 days out.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
